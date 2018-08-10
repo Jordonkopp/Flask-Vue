@@ -1,0 +1,26 @@
+# Client
+
+> Vue JS front end
+
+## Manual Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+```
+
+## Automated Setup
+See README in base directory for docker-compose setup instructions
+
+## TODO
++ Tests
++ Improved error handling
