@@ -19,7 +19,7 @@ docker-copose up --build
 
 ## Usage
 1. Navigate to http://localhost:8080/
-    + Will redirect to http://localhost:8080/#/register
+    + Will will bring up the registration component
 2. Once registerd you will be redirected to the login page
     + http://localhost:8080/#/login
 3. Enter your credentials
