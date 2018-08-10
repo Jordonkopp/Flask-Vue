@@ -10,6 +10,9 @@
 ## Setup
 ``` bash
 # First run
+docker-compose build
+
+# Then 
 docker-compose up
 
 # To rebuild

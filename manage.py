@@ -37,6 +37,13 @@ def recreate_db():
     db.create_all()
     db.session.commit()
 
+@manager.command
+def create_db():
+    """
+    Recreates a local database. Do not use in prod
+    """
+    db.create_all()
+    db.session.commit()
 
 if __name__ == "__main__":
     manager.run()
