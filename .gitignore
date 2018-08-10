@@ -1,9 +1,0 @@
-.DS_Store
-node_modules/
-/dist/
-env/
-__pycache__
-*/node_modules/
-*env
-*.log
-*.idea
