@@ -16,5 +16,14 @@ docker-compose up
 docker-copose up --build
 
 ```
+
+## Usage
+1. Navigate to http://localhost:8080/
+    + Will redirect to http://localhost:8080/#/register
+2. Once registerd you will be redirected to the login page
+    + http://localhost:8080/#/login
+3. Enter your credentials
+    + You will be redirected to http://localhost:8080/#/keys
+    + There you can add and remove keys associated with your account
 ## TODO
 + Fix pytest runtime problem
