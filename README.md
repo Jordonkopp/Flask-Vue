@@ -16,7 +16,7 @@ docker-compose build
 docker-compose up
 
 # To rebuild
-docker-copose up --build
+docker-compose up --build
 
 ```
 
